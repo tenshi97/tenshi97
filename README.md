@@ -2,7 +2,7 @@
 
 ExG社区所属，自由的MODDER，数理科学爱好者，游戏玩家Rainsfield向您问好
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=tokyonight)](https://space.bilibili.com/13723905)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenshi97&show_icons=true&theme=tokyonight)](https://space.bilibili.com/13723905)
 
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Rainsfield-yello)](https://www.zhihu.com/people/rainsfield-sk)
 [![youtube](https://img.shields.io/badge/Bilibili-Rainsfield-red)](https://space.bilibili.com/13723905)
