@@ -8,17 +8,21 @@ ExG社区所属，自由的MODDER，数理科学爱好者，游戏玩家Rainsfie
 [![youtube](https://img.shields.io/badge/Bilibili-Rainsfield-red)](https://space.bilibili.com/13723905)
 [![个人博客](https://img.shields.io/badge/个人博客-Rainsfieldblue)](https://blog.rainsfield.xyz/) 
 <br>
-[![Belief](https://img.shields.io/badge/信仰-blue)]
+[![Belief](https://img.shields.io/badge/信仰/Belief-blue)]
 <br>
 ![](https://img.shields.io/badge/Liberty-blue) 
 ![](https://img.shields.io/badge/Equality-white) 
 ![](https://img.shields.io/badge/Justice-red)
 <br>
-[![Belief](https://img.shields.io/badge/爱好-blue)]
+[![Hobbies](https://img.shields.io/badge/爱好/Hobbies-blue)]
 <br>
 ![](https://img.shields.io/badge/拜仁慕尼黑-red)
 ![](https://img.shields.io/badge/都市天际线-blue)
 ![](https://img.shields.io/badge/物理学-white)
+<br>
+![](https://img.shields.io/badge/FC-Bayern-Munichen-red)
+![](https://img.shields.io/badge/Cities-Skylines-blue)
+![](https://img.shields.io/badge/Physics-white)
 </div>
 
 ![头像](image/头像.jpg)
