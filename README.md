@@ -20,8 +20,8 @@ ExG社区所属，自由的MODDER，数理科学爱好者，游戏玩家Rainsfie
 ![](https://img.shields.io/badge/都市天际线-blue)
 ![](https://img.shields.io/badge/物理学-white)
 <br>
-![](https://img.shields.io/badge/FC-Bayern-Munichen-red)
-![](https://img.shields.io/badge/Cities-Skylines-blue)
+![](https://img.shields.io/badge/FC_Bayern_Munichen-red)
+![](https://img.shields.io/badge/Cities_Skylines-blue)
 ![](https://img.shields.io/badge/Physics-white)
 </div>
 
