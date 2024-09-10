@@ -3,7 +3,7 @@
 ExG社区所属，自由的MODDER，数理科学爱好者，游戏玩家Rainsfield向您问好
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenshi97&show_icons=true&theme=tokyonight)](https://space.bilibili.com/13723905)
-
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tenshi97&layout=compact" />
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Rainsfield-yello)](https://www.zhihu.com/people/rainsfield-sk)
 [![youtube](https://img.shields.io/badge/Bilibili-Rainsfield-red)](https://space.bilibili.com/13723905)
 [![个人博客](https://img.shields.io/badge/个人博客-Rainsfieldblue)](https://blog.rainsfield.xyz/) 
@@ -24,7 +24,6 @@ ExG社区所属，自由的MODDER，数理科学爱好者，游戏玩家Rainsfie
 ![](https://img.shields.io/badge/Cities_Skylines-blue)
 ![](https://img.shields.io/badge/Physics-white)
 </div>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tenshi97&layout=compact" />
 ![头像](image/头像.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/tenshi97/count.svg)
